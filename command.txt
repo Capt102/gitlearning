@@ -6,3 +6,5 @@ git config --global user.email "kennyjake@email.com"
 
 git add -A 
 git commit -m "message"
+
+git status
