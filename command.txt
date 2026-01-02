@@ -1,0 +1,6 @@
+commands
+config
+git config --list
+git config --global user.name "kenny"
+git config --global user.email "kennyjake@email.com"
+
